@@ -1,0 +1,7 @@
+org/example/chatapi/chat/ChatController.class
+org/example/chatapi/ChatapiApplication.class
+org/example/chatapi/chat/ChatMessage$ChatMessageBuilder.class
+org/example/chatapi/config/WebSocketConfig.class
+org/example/chatapi/config/WebSocketEventListener.class
+org/example/chatapi/chat/MessageType.class
+org/example/chatapi/chat/ChatMessage.class
